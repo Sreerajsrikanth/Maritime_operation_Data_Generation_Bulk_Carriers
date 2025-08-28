@@ -244,13 +244,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Email**: sreeraj.srikanth@gmail.com
 - **Issues**: Please use GitHub Issues for bug reports and feature requests
 
-## 🔗 **Related Projects**
 
-- [Maritime AI Research Hub](https://example.com) - Community resource
-- [Shipping Data Standards](https://example.com) - Industry standards
-- [Maritime ML Benchmarks](https://example.com) - Performance baselines
-
----
 
 **⭐ If this project helps your maritime AI research, please consider giving it a star!**
 
