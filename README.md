@@ -240,9 +240,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 **Contact & Support**
 
-- **Author**: [Your Name]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: [your.email@example.com]
+- **Author**: Sreeraj Srikanth
+- **Email**: sreeraj.srikanth@gmail.com
 - **Issues**: Please use GitHub Issues for bug reports and feature requests
 
 ## 🔗 **Related Projects**
